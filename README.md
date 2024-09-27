@@ -1,0 +1,1 @@
+# spec-mate-bdd-starter
